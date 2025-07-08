@@ -9,6 +9,14 @@ The project implements a GPS-guided autonomous vehicle capable of navigating to 
 4. Motor control via L298N based on coordinate delta
 5. Modular code for new waypoints and navigation logic
 
+## Technologies <img src="https://github.com/user-attachments/assets/e4bde167-a599-4461-9c0a-c702ca337451" width="20" height="20">
+
+- **ESP8266 NodeMCU** – Main controller for logic and Wi-Fi
+- **GPS Module (e.g., NEO-6M)** – Provides real-time location
+- **HMC5883L Compass** – For heading direction (optional)
+- **L298N Motor Driver** – Controls motors for forward, reverse, turns
+- **Arduino IDE** – For firmware development
+
 ## Future Improvements <img src="https://github.com/user-attachments/assets/5d819501-645e-45f6-ba4e-4ce553e66356" width="20" height="20">
 
 • Including obstacle sensors for obstacle avoidance <br/> 
