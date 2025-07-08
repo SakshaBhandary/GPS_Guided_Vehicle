@@ -8,3 +8,8 @@ The project implements a GPS-guided autonomous vehicle capable of navigating to 
 3. Wireless handling with ESP8266
 4. Motor control via L298N based on coordinate delta
 5. Modular code for new waypoints and navigation logic
+
+## Future Improvements <img src="https://github.com/user-attachments/assets/5d819501-645e-45f6-ba4e-4ce553e66356" width="20" height="20">
+
+• Enable multi-waypoint path planning <br/>
+• Integrate web dashboard for live tracking
