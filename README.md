@@ -11,5 +11,6 @@ The project implements a GPS-guided autonomous vehicle capable of navigating to 
 
 ## Future Improvements <img src="https://github.com/user-attachments/assets/5d819501-645e-45f6-ba4e-4ce553e66356" width="20" height="20">
 
-• Enable multi-waypoint path planning <br/>
-• Integrate web dashboard for live tracking
+• Including obstacle sensors for obstacle avoidance <br/> 
+• Enabling multi-waypoint path planning <br/>
+• Integrating web dashboard for live tracking
